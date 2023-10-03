@@ -1,0 +1,394 @@
+{
+    "config": {
+        "selector": "Scope",
+        "slider_label": "Publication Years",
+        "category": "Affiliation#sortquan",
+        "node_scaling_options": [
+            "Citedness#number",
+            "H Index#number",
+            "Relevant Publications#number"
+        ]
+    },
+    "data": {
+        "68ebd79a0ce324de5cbced29c5d6c823d613259572f69515942a2c925dcd4c4e": {
+            "slider_variable": [
+                2017,
+                2018,
+                2019
+            ],
+            "category": "Banco de la Rep\u00fablica Colombia",
+            "icon": "assets/flags/CO.png",
+            "location": {
+                "latitude": 4.602797,
+                "longitude": -74.073296
+            },
+            "links": [
+                "https://openalex.org/A4351931192"
+            ],
+            "connections": [
+                {
+                    "name": "Mar\u00eda Teresa Ram\u00edrez-Giraldo",
+                    "category": "Banco de la Rep\u00fablica Colombia",
+                    "selector": [
+                        "aqueducts && gender"
+                    ],
+                    "slider_variable": [
+                        2019
+                    ],
+                    "links": [
+                        "https://openalex.org/A4337278775"
+                    ],
+                    "icon": "assets/flags/CO.png",
+                    "location": {
+                        "latitude": 4.602797,
+                        "longitude": -74.073296
+                    }
+                },
+                {
+                    "name": "Juliana Jaramillo-Echeverri",
+                    "category": "The RiverBank",
+                    "selector": [
+                        "aqueducts && gender"
+                    ],
+                    "slider_variable": [
+                        2017,
+                        2018
+                    ],
+                    "links": [
+                        "https://openalex.org/A2126325908"
+                    ],
+                    "icon": "assets/flags/un.png",
+                    "location": {
+                        "latitude": 28.062538,
+                        "longitude": -81.149536
+                    }
+                },
+                {
+                    "name": "Daniela Santos-C\u00e1rdenas",
+                    "category": "Banco de la Rep\u00fablica Colombia",
+                    "selector": [
+                        "aqueducts && gender"
+                    ],
+                    "slider_variable": [
+                        2019
+                    ],
+                    "links": [
+                        "https://openalex.org/A2899030698"
+                    ],
+                    "icon": "assets/flags/CO.png",
+                    "location": {
+                        "latitude": 4.602797,
+                        "longitude": -74.073296
+                    }
+                },
+                {
+                    "name": "Mar\u00eda Teresa Ram\u00edrez-Giraldo",
+                    "category": "Banco de la Rep\u00fablica Colombia",
+                    "selector": [
+                        "aqueducts && gender"
+                    ],
+                    "slider_variable": [
+                        2017,
+                        2018
+                    ],
+                    "links": [
+                        "https://openalex.org/A216201198"
+                    ],
+                    "icon": "assets/flags/CO.png",
+                    "location": {
+                        "latitude": 4.602797,
+                        "longitude": -74.073296
+                    }
+                }
+            ]
+        },
+        "e323cfb41ad2e642093552a3b2b42d6200c69bc9df46fb209311f8b655970c12": {
+            "slider_variable": [
+                2019
+            ],
+            "category": "Banco de la Rep\u00fablica Colombia",
+            "icon": "assets/flags/CO.png",
+            "location": {
+                "latitude": 4.602797,
+                "longitude": -74.073296
+            },
+            "links": [
+                "https://openalex.org/A4337278775"
+            ],
+            "connections": [
+                {
+                    "name": "Adolfo Meisel-Roca",
+                    "category": "Banco de la Rep\u00fablica Colombia",
+                    "selector": [
+                        "aqueducts && gender"
+                    ],
+                    "slider_variable": [
+                        2017,
+                        2018,
+                        2019
+                    ],
+                    "links": [
+                        "https://openalex.org/A4351931192"
+                    ],
+                    "icon": "assets/flags/CO.png",
+                    "location": {
+                        "latitude": 4.602797,
+                        "longitude": -74.073296
+                    }
+                },
+                {
+                    "name": "Daniela Santos-C\u00e1rdenas",
+                    "category": "Banco de la Rep\u00fablica Colombia",
+                    "selector": [
+                        "aqueducts && gender"
+                    ],
+                    "slider_variable": [
+                        2019
+                    ],
+                    "links": [
+                        "https://openalex.org/A2899030698"
+                    ],
+                    "icon": "assets/flags/CO.png",
+                    "location": {
+                        "latitude": 4.602797,
+                        "longitude": -74.073296
+                    }
+                }
+            ]
+        },
+        "f50a5a64e4079c01c6ddc19700cf99ec07ea2dccf052e80a0f98a1b3e796c947": {
+            "slider_variable": [
+                2019
+            ],
+            "category": "Banco de la Rep\u00fablica Colombia",
+            "icon": "assets/flags/CO.png",
+            "location": {
+                "latitude": 4.602797,
+                "longitude": -74.073296
+            },
+            "links": [
+                "https://openalex.org/A2899030698"
+            ],
+            "connections": [
+                {
+                    "name": "Mar\u00eda Teresa Ram\u00edrez-Giraldo",
+                    "category": "Banco de la Rep\u00fablica Colombia",
+                    "selector": [
+                        "aqueducts && gender"
+                    ],
+                    "slider_variable": [
+                        2019
+                    ],
+                    "links": [
+                        "https://openalex.org/A4337278775"
+                    ],
+                    "icon": "assets/flags/CO.png",
+                    "location": {
+                        "latitude": 4.602797,
+                        "longitude": -74.073296
+                    }
+                },
+                {
+                    "name": "Adolfo Meisel-Roca",
+                    "category": "Banco de la Rep\u00fablica Colombia",
+                    "selector": [
+                        "aqueducts && gender"
+                    ],
+                    "slider_variable": [
+                        2017,
+                        2018,
+                        2019
+                    ],
+                    "links": [
+                        "https://openalex.org/A4351931192"
+                    ],
+                    "icon": "assets/flags/CO.png",
+                    "location": {
+                        "latitude": 4.602797,
+                        "longitude": -74.073296
+                    }
+                }
+            ]
+        },
+        "9b5f0ce775caf211b98b63845ac1e56c379f01c60dd0f0b896aa5d77a1cf5092": {
+            "slider_variable": [
+                2017,
+                2018
+            ],
+            "category": "The RiverBank",
+            "icon": "assets/flags/un.png",
+            "location": {
+                "latitude": 28.062538,
+                "longitude": -81.149536
+            },
+            "links": [
+                "https://openalex.org/A2126325908"
+            ],
+            "connections": [
+                {
+                    "name": "Adolfo Meisel-Roca",
+                    "category": "Banco de la Rep\u00fablica Colombia",
+                    "selector": [
+                        "aqueducts && gender"
+                    ],
+                    "slider_variable": [
+                        2017,
+                        2018,
+                        2019
+                    ],
+                    "links": [
+                        "https://openalex.org/A4351931192"
+                    ],
+                    "icon": "assets/flags/CO.png",
+                    "location": {
+                        "latitude": 4.602797,
+                        "longitude": -74.073296
+                    }
+                },
+                {
+                    "name": "Mar\u00eda Teresa Ram\u00edrez-Giraldo",
+                    "category": "Banco de la Rep\u00fablica Colombia",
+                    "selector": [
+                        "aqueducts && gender"
+                    ],
+                    "slider_variable": [
+                        2017,
+                        2018
+                    ],
+                    "links": [
+                        "https://openalex.org/A216201198"
+                    ],
+                    "icon": "assets/flags/CO.png",
+                    "location": {
+                        "latitude": 4.602797,
+                        "longitude": -74.073296
+                    }
+                }
+            ]
+        },
+        "00da469cc104fc4635cecac3a16fd9f16c3d5523fcf5931c6808b27d0dd532c4": {
+            "slider_variable": [
+                2017,
+                2018
+            ],
+            "category": "Banco de la Rep\u00fablica Colombia",
+            "icon": "assets/flags/CO.png",
+            "location": {
+                "latitude": 4.602797,
+                "longitude": -74.073296
+            },
+            "links": [
+                "https://openalex.org/A216201198"
+            ],
+            "connections": [
+                {
+                    "name": "Adolfo Meisel-Roca",
+                    "category": "Banco de la Rep\u00fablica Colombia",
+                    "selector": [
+                        "aqueducts && gender"
+                    ],
+                    "slider_variable": [
+                        2017,
+                        2018,
+                        2019
+                    ],
+                    "links": [
+                        "https://openalex.org/A4351931192"
+                    ],
+                    "icon": "assets/flags/CO.png",
+                    "location": {
+                        "latitude": 4.602797,
+                        "longitude": -74.073296
+                    }
+                },
+                {
+                    "name": "Juliana Jaramillo-Echeverri",
+                    "category": "The RiverBank",
+                    "selector": [
+                        "aqueducts && gender"
+                    ],
+                    "slider_variable": [
+                        2017,
+                        2018
+                    ],
+                    "links": [
+                        "https://openalex.org/A2126325908"
+                    ],
+                    "icon": "assets/flags/un.png",
+                    "location": {
+                        "latitude": 28.062538,
+                        "longitude": -81.149536
+                    }
+                }
+            ]
+        },
+        "076861c9e0e04f029a58a34133054285adb9c654da92c41197b856d836915647": {
+            "slider_variable": [
+                2018
+            ],
+            "category": "Unknown",
+            "icon": "assets/flags/un.png",
+            "location": {
+                "latitude": "",
+                "longitude": ""
+            },
+            "links": [
+                "https://openalex.org/A2966395453"
+            ],
+            "connections": [
+                {
+                    "name": "Mar\u00eda Viviana",
+                    "category": "Unknown",
+                    "selector": [
+                        "aqueducts && gender"
+                    ],
+                    "slider_variable": [
+                        2018
+                    ],
+                    "links": [
+                        "https://openalex.org/A2108633796"
+                    ],
+                    "icon": "assets/flags/un.png",
+                    "location": {
+                        "latitude": "",
+                        "longitude": ""
+                    }
+                }
+            ]
+        },
+        "ec0e41163ee964b5e1da7c2d28eacc49f03f6334726a708791c916c22ffc16b3": {
+            "slider_variable": [
+                2018
+            ],
+            "category": "Unknown",
+            "icon": "assets/flags/un.png",
+            "location": {
+                "latitude": "",
+                "longitude": ""
+            },
+            "links": [
+                "https://openalex.org/A2108633796"
+            ],
+            "connections": [
+                {
+                    "name": "Granados Le\u00f3n",
+                    "category": "Unknown",
+                    "selector": [
+                        "aqueducts && gender"
+                    ],
+                    "slider_variable": [
+                        2018
+                    ],
+                    "links": [
+                        "https://openalex.org/A2966395453"
+                    ],
+                    "icon": "assets/flags/un.png",
+                    "location": {
+                        "latitude": "",
+                        "longitude": ""
+                    }
+                }
+            ]
+        }
+    }
+}
