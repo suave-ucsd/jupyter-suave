@@ -4,7 +4,7 @@ channels:
   - trentonoliphant
   - mlgill
 dependencies:
-  - python
+  - python=3.9
   - numpy
   - pip
   - pip:
