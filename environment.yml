@@ -25,6 +25,12 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - ipywidgets
+  - tensorflow
+  - tensorflow-gpu
+  - scikit-learn
+  - keras
+  - ipyfilechooser
   - pip:
     - imutils
     - clarifai-grpc
