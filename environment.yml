@@ -27,6 +27,7 @@ dependencies:
   - dask
   - ipywidgets
   - tensorflow
+  - tensorflow-gpu
   - pip:
     - imutils
     - clarifai-grpc
