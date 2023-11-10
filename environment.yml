@@ -30,6 +30,7 @@ dependencies:
   - scikit-learn
   - keras
   - ipyfilechooser
+  - tensorflow-gpu
   - pip:
     - imutils
     - clarifai-grpc
