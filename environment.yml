@@ -17,6 +17,14 @@ dependencies:
   - owslib
   - geojson
   - geojsonio
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - dask
   - pip:
     - imutils
     - clarifai-grpc
