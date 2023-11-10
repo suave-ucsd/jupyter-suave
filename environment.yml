@@ -28,6 +28,7 @@ dependencies:
   - ipywidgets
   - tensorflow
   - scikit-learn
+  - keras
   - pip:
     - imutils
     - clarifai-grpc
