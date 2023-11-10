@@ -7,6 +7,16 @@ dependencies:
   - python
   - numpy
   - pip
+  - shapely
+  - geopandas
+  - panel
+  - pysal
+  - holoviews
+  - hvplot
+  - datashader
+  - owslib
+  - geojson
+  - geojsonio
   - pip:
     - imutils
     - clarifai-grpc
