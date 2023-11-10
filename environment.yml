@@ -25,7 +25,6 @@ dependencies:
   - partd
   - bokeh
   - dask
-  - ipywidgets
   - pip:
     - imutils
     - clarifai-grpc
