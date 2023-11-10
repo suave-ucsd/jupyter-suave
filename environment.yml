@@ -29,6 +29,7 @@ dependencies:
   - tensorflow
   - scikit-learn
   - keras
+  - ipyfilechooser
   - pip:
     - imutils
     - clarifai-grpc
