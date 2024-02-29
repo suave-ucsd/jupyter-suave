@@ -37,3 +37,5 @@ dependencies:
     - tqdm
     - opencv-python-headless
     - opencv-contrib-python-headless
+    - pandas-profiling
+    - pyvis
