@@ -4,5 +4,28 @@ channels:
 dependencies:
   - python
   - numpy
+  - pip
+  - shapely
+  - geopandas
+  - panel
+  - pysal
+  - holoviews
+  - hvplot
+  - datashader
+  - owslib
+  - geojson
+  - geojsonio
+  - psutil
+  - matplotlib
+  - pandas
+  - partd
+  - bokeh
+  - dask
+  - ipywidgets
+  - tensorflow
+  - scikit-learn
+  - keras
+  - ipyfilechooser
   - pip:
     - imutils
+    - pyvis
