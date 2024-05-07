@@ -1,6 +1,8 @@
 name: suave-jupyter-environment
 channels:
   - conda-forge
+  - trentonoliphant
+  - mlgill
 dependencies:
   - python
   - numpy
@@ -10,9 +12,18 @@ dependencies:
   - panel
   - pysal
   - holoviews
+  - hvplot
+  - datashader
+  - owslib
   - geojson
+  - geojsonio
+  - psutil
+  - toolz
   - matplotlib
+  - dill
   - pandas
+  - partd
+  - bokeh
   - dask
   - ipywidgets
   - tensorflow
@@ -21,4 +32,10 @@ dependencies:
   - ipyfilechooser
   - pip:
     - imutils
+    - clarifai-grpc
+    - spacy
+    - tqdm
+    - opencv-python-headless
+    - opencv-contrib-python-headless
+    - pandas-profiling
     - pyvis
