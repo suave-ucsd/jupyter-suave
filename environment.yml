@@ -1,9 +1,17 @@
 name: suave-jupyter-environment
 channels:
   - conda-forge
+  - trentonoliphant
+  - mlgill
 dependencies:
   - python
   - numpy
   - pip
+  - shapely
+  - geopandas
+  - panel
   - pip:
     - imutils
+    - clarifai-grpc
+    - spacy
+    - tqdm
