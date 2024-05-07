@@ -20,6 +20,12 @@ dependencies:
   - psutil
   - toolz
   - matplotlib
+  - dask
+  - ipywidgets
+  - tensorflow
+  - scikit-learn
+  - keras
+  - ipyfilechooser
   - pip:
     - imutils
     - clarifai-grpc
