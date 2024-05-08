@@ -24,6 +24,7 @@ dependencies:
   - pandas
   - partd
   - bokeh
+  - keras
   - ipywidgets
   - ipyfilechooser
   - pip:
