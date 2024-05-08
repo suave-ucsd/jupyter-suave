@@ -24,6 +24,8 @@ dependencies:
   - pandas
   - partd
   - bokeh
+  - keras
+  - ipyfilechooser
   - pip:
     - imutils
     - clarifai-grpc
