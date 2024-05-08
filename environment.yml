@@ -26,6 +26,7 @@ dependencies:
   - bokeh
   - keras
   - scikit-learn
+  - dask
   - ipywidgets
   - ipyfilechooser
   - pip:
