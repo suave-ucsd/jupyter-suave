@@ -24,9 +24,7 @@ dependencies:
   - pandas
   - partd
   - bokeh
-  - tensorflow
   - ipywidgets
-  - keras
   - ipyfilechooser
   - pip:
     - imutils
