@@ -38,3 +38,4 @@ dependencies:
     - pandas-profiling
     - pyvis
     - tensorflow
+    - dask
