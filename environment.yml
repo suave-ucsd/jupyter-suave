@@ -37,5 +37,4 @@ dependencies:
     - opencv-contrib-python-headless
     - pandas-profiling
     - pyvis
-    - dask
     - tensorflow
