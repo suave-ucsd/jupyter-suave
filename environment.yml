@@ -24,6 +24,9 @@ dependencies:
   - pandas
   - partd
   - bokeh
+  - dask
+  - ipywidgets
+  - tensorflow
   - pip:
     - imutils
     - clarifai-grpc
