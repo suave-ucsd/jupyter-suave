@@ -26,7 +26,6 @@ dependencies:
   - bokeh
   - tensorflow
   - scikit-learn
-  - dask
   - pip:
     - imutils
     - clarifai-grpc
