@@ -24,6 +24,8 @@ dependencies:
   - pandas
   - partd
   - bokeh
+  - tensorflow
+  - scikit-learn
   - keras
   - ipyfilechooser
   - pip:
